@@ -5,19 +5,33 @@
 
 ## Задачи
 
-### [Logic](tasks/logic)
+### [Логика](tasks/logic)
+
+Задачи на логику.
 
 ### [Unix](tasks/unix)
 
+Задачи на знание unix-систем.
+
 ### [Git](tasks/git)
+
+Задачи на знание vcs-системы git.
+
+### [JavaScript](tasks/js)
+
+Задачи на знание языка программирования JavaScript.
 
 ### [PHP](tasks/php)
 
+Задачи на знание языка программирования PHP.
+
 ### [SQL](tasks/sql)
 
-### [Practice](tasks/practice)
+Задачи на знание языка SQL.
 
-### [JavaScript](tasks/js)
+### [Практика](tasks/practice)
+
+Практические задачи.
 
 ## Примеры "Руководства пользователя"
 
