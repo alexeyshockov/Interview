@@ -24,3 +24,9 @@
 ### [Практика](tasks/practice)
 
 Практические задачи.
+
+## Другие тесты
+
+### [Badoo](http://php.feedme.ru/)
+
+### [Wamba](http://corp.wamba.com/ru/test/)
