@@ -17,24 +17,10 @@
 
 Задачи на знание vcs-системы git.
 
-### [JavaScript](tasks/js)
-
-Задачи на знание языка программирования JavaScript.
-
 ### [PHP](tasks/php)
 
 Задачи на знание языка программирования PHP.
 
-### [SQL](tasks/sql)
-
-Задачи на знание языка SQL.
-
 ### [Практика](tasks/practice)
 
 Практические задачи.
-
-## Примеры "Руководства пользователя"
-
-### [Enter](guides/enter.md)
-
-### [OctoLab](guides/octolab.md)
