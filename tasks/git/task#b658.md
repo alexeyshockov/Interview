@@ -2,7 +2,7 @@
 
 В ходе своей работы Программист A обнаружил, что решал задачу ticket_XYZ не в той ветке.
 
-Результат ```git log```:
+Результат `git log`:
 
 ```
 commit a1fcce338bed757efa9e4b32781f9f2b90ad80ad
@@ -43,7 +43,7 @@ Date:   Fri Jul 11 14:00:53 2014 +0400
     work on ticket_ABC
 ```
 
-Результат ```git branch```:
+Результат `git branch`:
 
 ```
 * ticket_UVW
