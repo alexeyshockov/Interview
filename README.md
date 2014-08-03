@@ -37,7 +37,8 @@
 
 ## Кто использует?
 
-* [![Enter](http://www.enter.ru/css/header/img/headerLogo.gif)](http://www.enter.ru/)
-* [![OctoLab](http://content.octolab.ru/images/logos/octolab/png/34495e/178x32.png)](http://www.octolab.ru/)
+> [![Enter](http://www.enter.ru/css/header/img/headerLogo.gif)](http://www.enter.ru/)
+>
+> [![OctoLab](http://content.octolab.ru/images/logos/octolab/png/34495e/178x32.png)](http://www.octolab.ru/)
 
-_актуально на момент написания_
+_ЗЫ: актуально на момент написания_

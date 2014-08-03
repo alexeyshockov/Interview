@@ -4,7 +4,7 @@
 
 ```php
 foreach ($products as & $item) {
-    $item['sum'] = bcmul($item['quantity'] * $item['price']);
+    $item['sum'] = bcmul($item['quantity'], $item['price']);
 }
 $handle = fopen('emails.log', 'a+');
 foreach ($emails as $item) {
