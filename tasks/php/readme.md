@@ -21,17 +21,15 @@ class Simple
 
 # Задача task#356a
 
-Программист Z никак не может понять, что он сделал не так, когда изучил emails.log:
+Программист Z никак не может понять, что он сделал не так, когда изучил содержимое полученных писем:
 
 ```php
-foreach ($products as & $item) {
-    $item['sum'] = bcmul($item['quantity'], $item['price']);
+foreach ($items as & $item) {
+    $item = sprintf('%s [%d], total: %s', $item['name'], $item['id'], bcmul($item['quantity'], $item['price'], 2));
 }
-$handle = fopen('emails.log', 'a+');
-foreach ($emails as $item) {
-    fwrite($handle, $item . "\n");
+foreach ($recipients as $item) {
+    imap_mail($item, 'Order', implode("\n", $items), null, 'progZ@company.com');
 }
-fclose($handle);
 ```
 
 С какой проблемой столкнулся Программист Z и в чем ее причина?
