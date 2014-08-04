@@ -1,4 +1,4 @@
-# Задача task#7b52.md
+# Задача task#7b52
 
 В таблице `mysql> describe session;`:
 
