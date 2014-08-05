@@ -1,3 +1,27 @@
+# Задача task#0716
+
+Как изменится последовательность действий в задаче [task#b658](task%23b658.md), если принять во внимание `git status`?
+
+Результат `git status`:
+
+```
+# On branch ticket_UVW
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#       modified:   app/Migrations/Version20140804082216.php
+#       modified:   src/Company/CommonBundle/Command/SomeCommand.php
+#       modified:   src/Company/CommonBundle/Entity/SomeEntity.php
+#       modified:   src/Company/SiteBundle/Controller/WelcomeController.php
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#       app/Migrations/Version20140804162803.php
+no changes added to commit (use "git add" and/or "git commit -a")
+```
+
 # Задача task#17ba
 
 Программист C решает задачи, руководствуясь принципом ["разделяй и властвуй"](http://en.wikipedia.org/wiki/Divide_and_conquer_algorithms), делая коммиты вида `work in progress on subtask_123`, и объединяя их в один `subtask_123 description` по завершении работы над подзадачей `subtask_123`.
@@ -30,7 +54,7 @@ Date:   Thu Jul 31 12:10:24 2014 +0400
     subtask_UVW description
 ```
 
-Нужна последовательность действий по объединению коммитов 2840ab, ec0ef5 и 796d09 в один `subtask__XYZ description`.
+Нужна последовательность действий по объединению коммитов 2840ab, ec0ef5 и 796d09 в один `subtask_XYZ description`.
 
 # Задача task#b658
 
