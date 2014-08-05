@@ -40,5 +40,7 @@
 > [![Enter](http://www.enter.ru/css/header/img/headerLogo.gif)](http://www.enter.ru/)
 >
 > [![OctoLab](http://content.octolab.ru/images/logos/octolab/png/34495e/178x32.png)](http://www.octolab.ru/)
+>
+> [![Leads](https://s3-eu-west-1.amazonaws.com/img.leads.su/main_site_logo_big.png)](http://leads.su/)
 
 _ЗЫ: актуально на момент написания_
